@@ -1,0 +1,222 @@
+#top{
+    background-color: rgb(56, 93, 216);
+    text-align: center;
+    padding: 10px;
+}
+.icon{
+    width: 20px;
+    height: 20px;
+    margin-bottom: 5px;
+}
+#para{
+    display: inline;
+    color: white;
+    text-align: center;
+    margin: 0px 80px 0px 80px;
+    padding: auto;
+}
+#nav{
+    background-color: #efefef;
+    text-align: center;
+    padding: 12px;
+}
+.logo{
+    width: 200px;
+    height: 50px
+}
+ul{
+    padding: 0px 200px 0px 0px;
+	float: right;
+	list-style-type: none;
+}
+li{
+    display: inline-block;
+    margin-top: 12px;
+}
+li a:hover{
+	background-color: blue;
+    color: #000;
+    text-decoration: none;
+}
+ul li a{
+	text-decoration: none;
+	color: grey;
+    padding: 5px 20px;
+    text-decoration: none;
+    transition: 0.6s ease;
+    border-radius: 15px;
+}
+ul li.active a{
+	background-color: blue;
+	color: #000;
+}
+.S1 img{
+    width: 100%;
+    height: 500px;
+}
+.marq{
+    background-color: rgb(93, 93, 235);
+    color: white;
+    margin: 0px 200px 0px 200px;
+    font-size: large;
+}
+.intro{
+    background-color: #efefef;
+    height: 700px;
+    text-align: center;
+}
+#fav > h1{
+    padding-top: 50px;
+    color: green;
+}
+#fav > img{
+    height: 50px;
+    padding-bottom: 15px;
+}
+#fav > p{
+    height: 40px;
+}
+span{
+    color: blue;
+}
+#fav{
+    color: green;
+    text-align: center;
+}
+#p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: normal;
+    text-align: justify;
+    color: rgb(129, 128, 128);
+    line-height: 1.6em;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.favicon{
+    height: 40px;
+}
+.con{
+    background-color: rgb(49, 49, 255);
+    height: 300px;
+    text-align: center;
+}
+.con img{
+    height: 40px;
+}
+h2{
+    color: white;
+}
+h5{
+    color: rgb(0, 255, 0);
+    font-size: large;
+}
+h5 span{
+    color: white;
+}
+#four{
+    display: inline-block;
+    width: 340px;
+    height: 200px;
+    text-align: center;
+    margin-top: 50px;
+    padding-left: 70px;
+    padding-top: 20px;
+}
+#four > h2 {
+    font-weight: 500;
+    font-size: 3.5em;
+}
+#four > h5 {
+    font-size: large;
+}
+.one{
+    background-color: white;
+    margin: 20px;
+    padding-top: 30px;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    display: inline-block;
+}
+.one > img {
+    padding-bottom: 10px;
+}
+.one > h4 {
+    color: #316DC3;
+}
+.con2{
+    display: flex;
+    height: 400px;
+}
+.D1{
+    margin-left: 250px;
+    padding-top: 50px;
+    justify-content: space-between;
+    height: 300px;
+    width: 850px;
+    display: inline-block;
+}
+.D1 > h2{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    color: blue;
+    font-size: xx-large;
+}
+.D2{
+    background-color: #efefef;
+    height: 290px;
+    width: 350px;
+    text-align: justify;
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.D2 > h2{
+    color: blue;
+    font-size: x-large;
+}
+#maup{
+    background-color: #efefef;
+    color: blue;
+    height: 80px;
+    width: 400px;
+    margin: 10px;
+    display: inline-block;
+    font-size: larger;
+    padding-top: 25px;
+}
+#maup > img{
+    margin-right: 50px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+h4 {
+    font-weight: 600;
+    line-height: 1.42857143;
+    color: #316DC3;
+    display: inline;
+}
+.images > img{
+    height: 150px;
+    width: 220px;
+}
+.gallery{
+    text-align: center;
+    height: 450px;
+}
+#fav {
+    margin-bottom: 20px;
+}
+#fav > img {
+    margin-top: 5px;
+}
+.last{
+    background-color: rgb(25, 124, 238);
+    height: 40px;
+    padding-left: 200px;
+}
+.last > p{
+    font-size: smaller;
+    padding-top: 15px;
+    color: white;
+}
